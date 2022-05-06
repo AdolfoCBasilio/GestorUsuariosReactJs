@@ -1,0 +1,26 @@
+.field{
+    margin-bottom: 20px;
+}
+
+.field label{
+    display: block;
+    margin:0 0 5px 0;
+    color: #222;
+    font-weight: 700;
+    font-size: 20px;
+}
+.field input{
+    background-color: #fff;
+    outline: 0;
+    font-size: 20px;
+    padding: 20px 15px;
+    border: 10x solid rgb(34,34, 34, 0.15);
+    color: #222;
+    width: 100%;
+    border-radius: 4px;
+    -webkit-border-radius: 4px;
+    -moz-border-radius: 4px;
+    -ms-border-radius: 4px;
+    -o-border-radius: 4px;
+    box-sizing: border-box;
+}
